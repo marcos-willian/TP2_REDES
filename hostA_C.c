@@ -10,7 +10,7 @@
 #include <time.h>
 
 #define SERVER_PORT 54321
-#define N_CYCLES 10
+#define N_CYCLES 100000
 
 
 int main(int argc, char * argv[]){
